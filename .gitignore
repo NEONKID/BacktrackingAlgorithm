@@ -2,4 +2,4 @@ Debug/
 BacktrackingAlgorithm/Debug
 *.db
 *.vcxproj
-*.vcxproj.filter
+*.vcxproj.filters
